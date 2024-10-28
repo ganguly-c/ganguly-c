@@ -1,0 +1,4 @@
+- 👋 Hi, this is @ganguly-c
+- 👀 I’m interested in understanding data science in the field of Finance and ESG
+- 🌱 I’m a student of Investment Banking
+- 😄 Pronouns: he/him  
